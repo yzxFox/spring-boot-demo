@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: my-springboot-app Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: fox
+Implementation-Vendor-Id: com.mycompany.app
+Build-Jdk: 1.8.0_25
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.test.ApplicationMain
+
